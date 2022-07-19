@@ -1,0 +1,19 @@
+#Head{
+    width: 50%;
+    
+}
+#StartBTN{
+    width: 50%;
+}
+#Instruct{
+    width: 50%;
+}
+#Status{
+    width: 50%;
+}
+#reset{
+    width: 50%;
+}
+#create{
+    position: sticky;
+}
